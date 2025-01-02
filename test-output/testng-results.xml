@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-02T14:09:56 IST" name="Default suite" finished-at="2025-01-02T14:10:08 IST" duration-ms="11924">
+    <groups>
+    </groups>
+    <test started-at="2025-01-02T14:09:56 IST" name="Default test" finished-at="2025-01-02T14:10:08 IST" duration-ms="11924">
+      <class name="Test_Cases.Test002_ChangePassword">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Test002_ChangePassword@6d60fe40]" started-at="2025-01-02T14:09:56 IST" name="setup" finished-at="2025-01-02T14:10:02 IST" duration-ms="5539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="TC002_ChangePass()[pri:0, instance:Test_Cases.Test002_ChangePassword@6d60fe40]" started-at="2025-01-02T14:10:02 IST" name="TC002_ChangePass" finished-at="2025-01-02T14:10:07 IST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_ChangePass -->
+        <test-method signature="ConfirmationMessage()[pri:1, instance:Test_Cases.Test002_ChangePassword@6d60fe40]" started-at="2025-01-02T14:10:07 IST" name="ConfirmationMessage" finished-at="2025-01-02T14:10:07 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmationMessage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test_Cases.Test002_ChangePassword@6d60fe40]" started-at="2025-01-02T14:10:07 IST" name="close" finished-at="2025-01-02T14:10:08 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_Cases.Test002_ChangePassword -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
